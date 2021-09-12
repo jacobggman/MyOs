@@ -11,7 +11,6 @@ public:
 	void setColor(ScreenColor foreground, ScreenColor background);
 	void clear();
 	void print_char(char character);
-
 private:
 	void print_newline();
 	void clear_row(size_t row);
@@ -21,6 +20,7 @@ private:
 	const static size_t NUM_COLS = 80;
 	const static size_t NUM_ROWS = 25;
 private:
+	// TODO: Make it volatile!
 	Char* buffer;
 	size_t col = 0;
 	size_t row = 0;
