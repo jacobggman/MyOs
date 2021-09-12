@@ -1,6 +1,9 @@
 #include "Screen.h"
 
 // TODO:
+// Learn and implement libc
+// Fix the folders of the project
+// Fix the build of the project
 // Make user input
 // Make the 8086 stuff abstract
 
