@@ -1,5 +1,10 @@
 #include "print.h"
 
+// TODO:
+// Make vs project
+// Make user input
+// Make the 8086 stuff abstract
+
 extern "C" void kernel_main()
 {
     Screen screen;
