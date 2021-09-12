@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\impl",
+    "\\impl\\kernel",
+    "\\impl\\x86_64",
+    "\\intf"
+  ],
+  "SelectedNode": "\\impl\\kernel\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
